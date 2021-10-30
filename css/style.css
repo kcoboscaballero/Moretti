@@ -392,10 +392,10 @@ li {
 
 .nothing {
     height: 200px;
-    width: 650px;
+    width: 700px;
     background: url(/assets/galaxy.gif);
-    background-size: 350px 300px;
-    font-size: 180px;
+    background-size: 380px 300px;
+    font-size: 150px;
     font-family: var(--Fira-Sans-Medium-font);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
